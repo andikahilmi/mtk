@@ -238,9 +238,10 @@ def main():
 
     elif choice == "Tim Penyusun":
         st.subheader("Tim Penyusun")
-        st.markdown("""Penyusun Aplikasi ini berisikan 2 orang yaitu:
-        - Hilmi Andika
-        - Fatur Rizky Ramadan
+        st.markdown("""
+        Penyusun Aplikasi ini berisikan 2 orang yaitu:
+        1. Hilmi Andika - Aritmatika
+        2. Fathur Rizky Ramadhan - Geometri
         """)
 
 if __name__ == '__main__':
